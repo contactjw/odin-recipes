@@ -1,6 +1,25 @@
 /* styles.css */
 
+body {
+    background-image: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/watercolor.png");
+    background-color: #cccccc;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: #ffffff;
+    font-size: 50px;
+}
+
 img {
     height: auto;
     width: 500px;
 }
+
+.recipe-details {
+    background-color: rgba(250, 235, 215, 0.911);
+    padding: 0.5em 0.2em 0.8em 0.5em;
+}
+
+/* add a notecard background for the details of recipes */
+/* white backgrounds for titles */
